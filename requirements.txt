@@ -1,0 +1,9 @@
+numpy
+pandas
+streamlit
+soundfile
+scipy
+matplotlib
+# optional, for MP3/FLAC/OGG decoding and tag reading:
+# soundfile
+# mutagen
